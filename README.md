@@ -1,7 +1,7 @@
 # PROYECTO TETRIS CON JAVASCRIPT
 ## Juan Martín Candela - 2ºDAW
 
-[tetris.jpg](img/tetris.jpg)
+[tetris.jpg](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/07/28/16905462676844.png)
 
 ### ÍNDICE
 1. PASOS DE CREACIÓN DEL PROYECTO
@@ -31,9 +31,9 @@ que se incluyen: **Javascript, HTML5, CSS3**
 
 Para más información sobre las tecnologías consulte los siguientes enlaces:
 
-[JavaScript][javascript-info]
-[HTML5][html5-info]
-[CSS3](https://www.w3schools.com/cssref/index.php)
+* [JavaScript][javascript-info]
+* [HTML5][html5-info]
+* [CSS3](https://www.w3schools.com/cssref/index.php)
 
 [javascript-info]:https://javascript.info/
 [html5-info]:https://dev.w3.org/html5/spec-LC/
