@@ -1,7 +1,7 @@
 # PROYECTO TETRIS CON JAVASCRIPT
 ## Juan Martín Candela - 2ºDAW
 
-[tetris.jpg](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/07/28/16905462676844.png)
+![tetris.jpg](.img/tetris.jpg"Tetris")
 
 ### ÍNDICE
 1. PASOS DE CREACIÓN DEL PROYECTO
